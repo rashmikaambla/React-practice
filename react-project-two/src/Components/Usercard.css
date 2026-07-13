@@ -1,0 +1,14 @@
+.User-Container{
+    background-color: rgb(219, 170, 107);
+    padding: 10px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    gap: 1.5rem;
+}
+#User-img{
+    height: 50%;
+    border-radius: 50%;
+}
